@@ -17,3 +17,7 @@
 ## Lab4-Using-Convolutions
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Sunbreak/codelabs-tensorflow/blob/master/Lab4-Using-Convolutions.ipynb)
+
+## Lab5-Using-Convolutions-With-Complex-Images
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Sunbreak/codelabs-tensorflow/blob/master/Lab5-Using-Convolutions-With-Complex-Images.ipynb)
