@@ -45,3 +45,8 @@
 ### keras_04_mnist_convolutional
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Sunbreak/codelabs-tensorflow/blob/master/keras_04_mnist_convolutional.ipynb)
+
+
+### keras_05_mnist_batch_norm
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Sunbreak/codelabs-tensorflow/blob/master/keras_05_mnist_batch_norm.ipynb)
