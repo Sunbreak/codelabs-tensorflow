@@ -37,3 +37,7 @@
 ### keras_02_mnist_dense
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Sunbreak/codelabs-tensorflow/blob/master/keras_02_mnist_dense.ipynb)
+
+### keras_03_mnist_dense_lrdecay_dropout
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Sunbreak/codelabs-tensorflow/blob/master/keras_03_mnist_dense_lrdecay_dropout.ipynb)
