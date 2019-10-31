@@ -33,3 +33,7 @@
 ### keras_01_mnist
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Sunbreak/codelabs-tensorflow/blob/master/keras_01_mnist.ipynb)
+
+### keras_02_mnist_dense
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Sunbreak/codelabs-tensorflow/blob/master/keras_02_mnist_dense.ipynb)
